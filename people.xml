@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<peopleList>
+    <people id="1" createAt="1649804524">
+        <firstname>Nguyen</firstname>
+        <middlename>Van</middlename>
+        <lastname>A</lastname>
+        <age>23</age>
+    </people>
+    <people id="2" createAt="1649804524">
+        <firstname>Nguyen</firstname>
+        <middlename>Van</middlename>
+        <lastname>B</lastname>
+        <age>20</age>
+    </people>
+</peopleList>
